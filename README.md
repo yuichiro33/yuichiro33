@@ -1,16 +1,15 @@
-### Hi there 👋
+###Olá visitante ao meu perfil🦊 
 
-<!--
-**yuichiro33/yuichiro33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+olá meu nome é victor hugo 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-sou um estudante da 3 serie 
+
+-meu projeto e aprender tecnicas de desing
+
+-meu robes é jogar ,ouvir musica e desenhar.
+
+estou aprendendo a usar java skript e scrat para meus projetos
+
+estou indo em busca de experiencia
+
