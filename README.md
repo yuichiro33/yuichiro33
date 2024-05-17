@@ -13,3 +13,5 @@ estou aprendendo a usar java skript e scrat para meus projetos
 
 estou indo em busca de experiencia
 
+-fique a vontade pra se comunicar comigo
+![](https://media1.tenor.com/m/Z5rJbJF4Y0YAAAAC/yuichiro-hyakuya-owari-no-seraph.gif)
